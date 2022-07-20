@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<!-- TODO: Search bar here -->
+<form method="get" action="http://www.google.com/search" target="_blank"><input type="hidden" name="sitesearch" value="profitforward.org" /><input type="text" name="q" maxlength="255" value="" placeholder="Search via Google" /></form>
+<br>
 
 {% for post in site.posts %}
   <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
