@@ -1,4 +1,40 @@
 ---
 ---
-
+// Default styles: https://github.com/pages-themes/tactile/blob/master/_sass/jekyll-theme-tactile.scss
 @import "{{ site.theme }}";
+
+.inner {
+    max-width: 90%;
+
+  }
+
+
+html, body {
+height: 100%;
+}
+body, header {
+display: flex;
+flex-direction: column;
+}
+.content {
+flex: 1 0 auto;
+}
+.footer {
+flex-shrink: 0;
+}
+
+.center {
+    text-align: center;
+}
+
+a {
+    color: #0080d5;
+}
+
+a:hover {
+    color: #0072d5;
+}
+
+.tiny-text {
+    font-size: 11px;
+}
