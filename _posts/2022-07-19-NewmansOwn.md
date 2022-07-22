@@ -6,13 +6,16 @@ permalink: "newmans-own"
 tags: tbd
 id: 1
 ---
-
-![Newman's Own Logo](/assets/img/newmans-own-logo.png)
+{:refdef: style="text-align: center;"}
+[![Newman's Own Logo](/assets/img/newmans-own-logo.png)](https://newmansown.com/)
+{: refdef}
 
 ## About the company 
 Newman’s Own is a food and beverage company first known for their salad dressings. Since 1982, they have expanded into a variety of different victuals. Yes, I did just want to write “victuals” here. I could have used “vittle” instead, but now we’re just debating funny words instead of learning about Paul Newman and A.E. Hotchner’s amazing invention of the Profit Forward category. Since founding, Newman’s Own has given over a half billion dollars to charity. 
 
 ## Where do their profits go? 
+All of the profits from sales of Newman's Own products go into the non-profit parent company, the Newman's Own Foundation. 
+
 > “The Foundation continues Paul Newman’s commitment to use all the money that it receives from the sale of Newman’s Own products to support children, their families, and their communities.” 
 #### [https://newmansown.org/mission/](https://newmansown.org/mission/)
 

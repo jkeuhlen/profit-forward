@@ -8,7 +8,9 @@ id:
 published: false
 ---
 
-![Logo](/assets/img/logo.png)
+{:refdef: style="text-align: center;"}
+[![Logo](/assets/img/logo.png)]()
+{: refdef}
 
 ## About the company 
 Lorem Ipsum Text Goes Here

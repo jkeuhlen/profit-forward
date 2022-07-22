@@ -7,8 +7,9 @@ tags: tbd
 id: 3
 published: true
 ---
-
-![Maui Ku'ia Estate Logo](/assets/img/maui-kuia-estate-chocolate-logo.png)
+{:refdef: style="text-align: center;"}
+[![Maui Ku'ia Estate Logo](/assets/img/maui-kuia-estate-chocolate-logo.png)](https://mauichocolate.com/)
+{: refdef}
 
 ## About the company 
 So you’ve had chocolate before, everyone has, right? But have you had the unique blend of Maui grown varieties sold by Maui Ku’ia Estate that is both rich, sweet, and uniquely fruity? I have. It’s delicious. If you like chocolate, you should buy some. Seriously, it’s really good. And their pieces are the perfect snacking size. 

@@ -6,8 +6,9 @@ permalink: "awesome-socks-club"
 tags: tbd
 id: 2
 ---
-
-![Awesome Socks Club Logo](/assets/img/awesome-socks-club-logo.png)
+{:refdef: style="text-align: center;"}
+[![Awesome Socks Club Logo](/assets/img/awesome-socks-club-logo.png)](https://awesomesocks.club/)
+{: refdef}
 
 
 ## About the company 

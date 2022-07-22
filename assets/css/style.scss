@@ -5,7 +5,7 @@
 
 .inner {
     max-width: 90%;
-
+    width: auto;
   }
 
 
@@ -37,4 +37,12 @@ a:hover {
 
 .tiny-text {
     font-size: 11px;
+}
+
+.splash-logos-wrapper {
+    text-align: center;
+}
+
+.splash-logo {
+    height: 150px;
 }
